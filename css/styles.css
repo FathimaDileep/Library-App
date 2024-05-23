@@ -1,0 +1,34 @@
+.navbar {
+    margin-bottom: 20px;
+}
+
+.jumbotron {
+    background-color:sienna
+    padding: 2rem 1rem;
+    opacity: 0.7;
+}
+
+.card {
+    transition: transform 0.2s;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+.container {
+    max-width: 960px;
+}
+
+h2 {
+    margin-top: 10px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
